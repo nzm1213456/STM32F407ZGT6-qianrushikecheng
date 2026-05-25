@@ -1,2 +1,2 @@
-# STM32F407ZGT6-qianrushikecheng
+# STM32F407ZGT6-嵌入式课程
 STM32F407ZGT6嵌入式课程
